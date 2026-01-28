@@ -42,3 +42,4 @@ Technologies Used
 - OpenStreetMap / OSMnx
 - Open-Meteo API
 - Matplotlib
+- GraphRAG
